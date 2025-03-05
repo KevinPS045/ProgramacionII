@@ -1,2 +1,2 @@
-# Tarea1Punto
-tareaCordenadas
+# Estudiante
+Kevin Yahir Palomino Santos
